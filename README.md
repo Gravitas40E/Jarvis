@@ -2,6 +2,9 @@
 
 Local-first JARVIS assistant with a CustomTkinter GUI, Ollama model responses, MySQL-backed memory, wake/offline states, and themed visual effects.
 
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/f813804a-7fa1-4d54-9825-9af429f2bd18" />
+
+
 ## Features
 
 - Offline startup state until you type `Wake up`
@@ -10,6 +13,11 @@ Local-first JARVIS assistant with a CustomTkinter GUI, Ollama model responses, M
 - MySQL memory storage
 - JARVIS-themed idle core and response matrix animations
 - Configuration through `.env`
+
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/72740696-d186-40dd-88a7-98cfe19aae56" />
+
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/fdacd2e3-714b-40d7-b4cc-1c46f8217694" />
+
 
 ## Requirements
 
