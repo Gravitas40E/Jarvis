@@ -2,7 +2,7 @@
 
 Local-first JARVIS assistant with a CustomTkinter GUI, Ollama model responses, MySQL-backed memory, wake/offline states, and themed visual effects.
 
-<img width="543" height="228" alt="image" src="https://github.com/user-attachments/assets/6acc4c93-903d-485b-a1b6-348f8ad0048d" />
+<img width="672" height="300" alt="upscaled-video-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/3fada052-37f3-464c-861c-20054e8b6407" />
 
 ## Features
 
