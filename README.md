@@ -19,6 +19,9 @@ Local-first JARVIS assistant with a CustomTkinter GUI, Ollama model responses, M
 
 <img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/fdacd2e3-714b-40d7-b4cc-1c46f8217694" />
 
+<img width="1033" height="240" alt="image" src="https://github.com/user-attachments/assets/04c1cb33-5d9e-42b2-9365-40e843cc1b60" />
+
+
 
 ## Requirements
 
