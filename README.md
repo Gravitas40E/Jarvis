@@ -21,7 +21,29 @@ Local-first JARVIS assistant with a CustomTkinter GUI, Ollama model responses, M
 
 <img width="1033" height="240" alt="image" src="https://github.com/user-attachments/assets/04c1cb33-5d9e-42b2-9365-40e843cc1b60" />
 
+## System Overview
 
+JARVIS is designed as a local-first experimental assistant system focused on intelligent interaction, modularity, and responsive UI behavior.
+
+The assistant combines:
+
+* a CustomTkinter desktop interface
+* local AI inference through Ollama
+* persistent conversational memory with MySQL
+* streamed response rendering
+* animated system states and diagnostics
+
+The project explores how AI systems can feel more interactive, atmospheric, and responsive rather than functioning as simple text interfaces.
+
+## Future Goals
+
+- Voice interaction
+- Tool execution
+- Plugin architecture
+- Memory summarization
+- Autonomous workflows
+- Emotion/state simulation
+- Multi-agent experimentation
 
 ## Requirements
 
